@@ -9,9 +9,9 @@ To organize the NutriBudget GitHub repository with the required project document
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | Prepare the project README | Done |
-| #2 | Complete the project documentation | Done |
-| #3 | Add portfolio files and sprint log | In progress |
+| #1 | Add acceptance criteria to each user story | To do |
+| #2 |  Number requirements and link each user story | To do |
+| #3 | Improve README structure and roadmap | To do |
 
 ### Daily standup notes
 - Standup 1: I plan to organize my GitHub repository and finish it based on what my lecturer asked.
