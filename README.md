@@ -12,8 +12,29 @@ Fuzzy Logic
 - University students
 - Campus café owners
 
+## Project structure
+```
+fyp-project/
+|-- README.md
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md
+```
+
+## Roadmap
+- [x] Problem statement written
+- [ ] Requirements numbered and linked to user stories
+- [ ] User stories have acceptance criteria
+- [ ] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
+
 ## Status
-Planning and documentation phase.
+Sprint 1 in progress
 
 ## Author
 Siti Nasyitah
@@ -22,3 +43,4 @@ Siti Nasyitah
 - [Problem Statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User Stories](docs/user-stories.md)
+- [Sprint log](docs/sprint-log.md)
