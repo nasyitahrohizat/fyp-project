@@ -15,7 +15,7 @@ To organize the NutriBudget GitHub repository with the required project document
 
 ### Daily standup notes
 - Standup 1: I plan to organize my GitHub repository and finish it based on what my lecturer asked.
-- Standup 2: I have prepared the README, problem statement, requirements, user stories, and .gitignore file. Next, I need to complete the remaining portfolio files.
+- Standup 2: I have prepared all requirements my lecturer asked.
 
 ### Sprint review
 I prepared the main project documents for NutriBudget and organized them in the GitHub repository.
