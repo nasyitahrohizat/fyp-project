@@ -28,8 +28,8 @@ fyp-project/
 
 ## Roadmap
 - [x] Problem statement written
-- [ ] Requirements numbered and linked to user stories
-- [ ] User stories have acceptance criteria
+- [x] Requirements numbered and linked to user stories
+- [x] User stories have acceptance criteria
 - [ ] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
