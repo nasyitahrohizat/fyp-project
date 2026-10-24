@@ -11,7 +11,7 @@ Students sometimes find it difficult to choose meals that are both affordable an
 Students may prioritize cheaper or more convenient meals without fully considering their nutritional needs. This can make it difficult for them to manage their food expenses while maintaining a balanced and healthy diet.
 
 ## Problem statement (3 to 5 sentences)
-University students often face difficulties in choosing meals that balance their daily food budget and nutritional needs. A study by Affendy Lee et al. (2025) discussed the importance of affordability, convenience and nutrition in food choices among UiTM students. Students with different health goals may also find it challenging to identify suitable meals within their budgets. Therefore, better support is needed to help students make informed meal choices based on affordability and nutritional suitability.
+University students often have limited daily food budgets and may find it difficult to choose meals that are nutritionally suitable. Limited food budgets and different health goals can make daily meal selection challenging. This leads students to prioritize affordability over nutritional needs when selecting their daily meals.
 
 
 ## References
